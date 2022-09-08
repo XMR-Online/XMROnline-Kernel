@@ -4,3 +4,7 @@
  * CPU (x64/ARMv7/ARMv8)
  * OpenCL for AMD GPUs.
  * CUDA for NVIDIA GPUs.
+
+## Contacts
+
+xmrOnlineMiner@gmail.com
